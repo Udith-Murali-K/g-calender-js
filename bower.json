@@ -1,9 +1,9 @@
 {
-  "name": "bc-ui-template",
-  "description": "UI template project for Bravocode Team",
+  "name": "g-calender",
+  "description": "Google calender integration",
   "main": "index.js",
   "authors": [
-    "Mohammed Riaz <riyasekmvr@gmail.com>"
+    "Udith Murali <udithmurali.k@gmail.com>"
   ],
   "license": "ISC",
   "homepage": "",
@@ -16,7 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "^1.5.5",
     "bootstrap": "^3.3.6",
     "eonasdan-bootstrap-datetimepicker": "^4.17.47",
     "moment-timezone": "^0.5.14"
